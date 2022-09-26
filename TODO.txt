@@ -1,0 +1,16 @@
+Report plan:
+- chemically peculiar stars
+- map EB uniquely 
+- what is starry how does it work
+- the fitted maps have residuals
+ - what do they tell us? 
+- future efforts: mcmc, spot evolution (linear interpolation between a start and end map)
+
+Coding:
+ - generate a nice pdf of the surface map
+ - zoomed in of the eclipse residuals
+
+Presentation: 
+ - create the slide!
+ - generate diagrams for slide
+ 	- visual diagrams of eclipses overlaid on flux curve
